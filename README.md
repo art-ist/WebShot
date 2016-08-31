@@ -1,6 +1,6 @@
 ﻿# WebShot
 
-A simple tool to create screenshots of websites using Selenium Webdrivers.
+A simple utility to create screenshots of websites using Selenium Webdrivers.
 
 ## Features
 
